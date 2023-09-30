@@ -1,6 +1,6 @@
 # Calculadora de Índice de Massa Corporal (IMC)
 
-Bem-vindo à nossa Calculadora de Índice de Massa Corporal (IMC)! Este projeto oferece uma aplicação simples para calcular o IMC de uma pessoa com base em seu peso e altura e determinar o grau de obesidade de acordo com a classificação padrão do IMC.
+Bem-vindo à minha Calculadora de Índice de Massa Corporal (IMC)! Este projeto oferece uma aplicação simples para calcular o IMC de uma pessoa com base em seu peso e altura e determinar o grau de obesidade de acordo com a classificação padrão do IMC.
 
 ## Funcionalidades
 
